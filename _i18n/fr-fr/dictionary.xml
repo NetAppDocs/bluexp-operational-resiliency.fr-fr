@@ -17,7 +17,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Les fichiers de notification fournissent des informations sur les droits d'auteur et les licences de tiers utilisés dans le logiciel NetApp.</block>
   <block id="93f94a3d0340c1183f3b9bcffb4a1f14" category="summary">Si vous avez sélectionné l'option corriger, le service peut mettre en œuvre la correction pour vous.</block>
   <block id="003848264a63687fa8d2ea1c33c5328e" category="doc">Corrigez le problème automatiquement</block>
-  <block id="8f975edf5f7c8d6af5534a68ce11cccc" category="paragraph">Si vous avez sélectionné l'option *recorrigez*, le service peut mettre en œuvre la correction pour vous.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Étapes</block>
   <block id="3f513535e1c0c6b9d8e9af3d3f2088ec" category="list-text">Dans le menu de navigation de gauche de BlueXP, sélectionnez *Santé* &gt; *résilience opérationnelle* &gt; *correction des risques*.</block>
   <block id="1e19b0a3a63298e82247e47a78a5a04c" category="list-text">Dans la page correction des risques, triez par colonne niveau d'impact pour afficher les risques les plus élevés en premier.</block>
@@ -26,10 +25,8 @@
   <block id="2ff7e6e819d1c3351da49fb9076ea7f6" category="paragraph">Des instructions s'affichent, en fonction du problème. Certaines options de cette page ne s'affichent pas si un connecteur BlueXP existe ou si un cluster est connu.</block>
   <block id="216a481d8cb3895627e1a95211130d00" category="list-text">Si un connecteur n'existe pas ou n'est pas encore activé, le service affiche la page Créer un connecteur, dans laquelle vous pouvez créer le connecteur. Si le connecteur existe, mais qu'il n'est pas actif, vous devez l'activer dans le service du fournisseur cloud.</block>
   <block id="d29bda09bea50f3d6b0e9d9d61015179" category="inline-link">comment créer un connecteur</block>
-  <block id="40291a6d68f9d56082e18b104e31da91" category="paragraph">Reportez-vous à la documentation BlueXP qui décrit<block ref="9f721c04278fd77b52c3c474d81c42e1" category="inline-link-rx"></block>.</block>
   <block id="82a3b3353123f51e6efb1de319a4a3af" category="list-text">Si aucun cluster n'existe, le service affiche une page dans laquelle vous pouvez identifier le cluster.</block>
   <block id="fd7ba781ed31347905680b56f58f3835" category="inline-link">identification du cluster</block>
-  <block id="317827dd87942b7fbf964589a91148ef" category="paragraph">Reportez-vous à la documentation BlueXP pour plus d'informations<block ref="b8d275f10ab05e7146bf09438bedc804" category="inline-link-rx"></block>.</block>
   <block id="dc2ee7c9bfe56a12af0b4b38d766e214" category="list-text">Une fois le connecteur déployé et le cluster découvert, examinez les mesures correctives.</block>
   <block id="7c770aba12cb31624e5a42e1c0b421d9" category="paragraph">Si vous avez sélectionné l'option *corriger* pour que le service implémente la correction pour vous, la page vérifier et exécuter la réparation requise s'affiche.</block>
   <block id="592899cba0155e8df6ff957e3c09bc55" category="list-text">Examinez le risque et d'autres informations.</block>
@@ -90,9 +87,7 @@
   <block id="9bd9926830b47ac6a79518657cd0c311" category="paragraph">Pour utiliser le service de résilience opérationnelle, vous devez vous assurer que votre environnement répond à toutes les exigences.</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">Votre environnement doit respecter toutes les exigences de BlueXP, y compris une connexion et un accès au réseau à partir d'un navigateur Web.</block>
   <block id="5b13c2584f8e7be6ddae81fa76b103bc" category="inline-link">Checklist de mise en route</block>
-  <block id="ec9789225ae7aac04cc60b035ede5646" category="paragraph">Faites référence à BlueXP<block ref="390066789dae200d18de69ad3c85d8e1" category="inline-link-rx"></block>.</block>
   <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">Documentation de Digital Advisor</block>
-  <block id="61af071e06d987945eac83349fe4bac9" category="list-text">Le service nécessite que tous les clusters soient surveillés par Digital Advisor (anciennement Active IQ Digital Advisor). Reportez-vous à la section<block ref="f2e318b984927d4781fb278ddc8ba233" category="inline-link-rx"></block>.</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">Vous devez disposer d'identifiants d'accès aux clusters.</block>
   <block id="a957b5f46307a4beeefa3727aab84ac1" category="list-text">Bien qu'il ne s'agisse pas d'une exigence, il est utile que le connecteur BlueXP soit en place et activé et que le système ONTAP soit détecté. Si ce n'est pas le cas, le service de résilience opérationnelle vous guide tout au long de ces processus.</block>
   <block id="8996677d91a175f8986c9fb086d0a019" category="summary">Vous n'avez plus besoin d'ajouter de la capacité ou de déplacer des données inactives. Vous pouvez désormais choisir aucune action requise et définir des rappels pour que vous puissiez vérifier à nouveau après 30, 60 ou 90 jours.</block>
@@ -114,7 +109,6 @@
   <block id="4bffe1140d12eeb81b9e080b0ff35d8d" category="doc">Accédez au service de résilience opérationnelle de BlueXP</block>
   <block id="43df50f2400dc0718ce6b2d1c64e3a13" category="paragraph">Vous pouvez utiliser le service de résilience opérationnelle en vous connectant à NetApp BlueXP.</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">En savoir plus sur la connexion</block>
-  <block id="3278cb74d1a55e8490b54ad36d8d8932" category="paragraph">Pour vous connecter à BlueXP, vous pouvez utiliser vos identifiants du site de support NetApp ou vous inscrire à une connexion au cloud NetApp à l'aide de votre e-mail et de votre mot de passe.<block ref="0ebbf5f315e843babc1bfedbc37bc7a5" category="inline-link-rx"></block>.</block>
   <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link">Console BlueXP</block>
   <block id="36c53a7c1d567e72b555e7c672926fcc" category="list-text">Ouvrez un navigateur Web et accédez au<block ref="c7cac890d256b6982a3b913952a758f2" category="inline-link-rx"></block>.</block>
   <block id="753e3c2055278365db83b605f29d4860" category="paragraph">La page de connexion NetApp BlueXP s'affiche.</block>
@@ -158,7 +152,6 @@
   <block id="0e47e65f6f1da96b296d1bb3be658363" category="doc">Foire aux questions concernant le service de résilience opérationnelle</block>
   <block id="424543a58732f42fd5482c0f9a373994" category="section-title">Accès au service de résilience opérationnelle</block>
   <block id="3d30fb9c1a3cbc7318effaf7886fd510" category="paragraph">*Qu'est-ce que l'URL de résilience opérationnelle de BlueXP ?*</block>
-  <block id="b962278bb795a7ad8f07e7eca506985f" category="paragraph">Pour l'URL, dans un navigateur, entrez :<block ref="f3ce75e13c42a18a2722e4f79bc3b004" category="inline-link-rx"></block></block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">Licences</block>
   <block id="7cb38122a2ccc3592b97f5655d3c4080" category="paragraph">*Avez-vous besoin d'une licence pour utiliser le service de résilience opérationnelle?*</block>
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">Aucun fichier de licence NetApp n'est requis.</block>
@@ -337,7 +330,6 @@
   <block id="c9705b7c773d6a1ccecd7fb434fd094c" category="sidebar">Résolvez les problèmes à l'aide d'un PlayBook Ansible</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs et communauté</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Communauté NetApp</block>
-  <block id="e7719a97642051ee358e5d15cf1ab284" category="sidebar">Blog NetApp Cloud Tiering</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Webinaires sur le cloud</block>
   <block id="56a1a3f59cf0d0d350684ce2a2bc24d2" category="sidebar">Documents sur la résilience opérationnelle</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toute la documentation BlueXP</block>
@@ -346,4 +338,12 @@
   <block id="c6c64cb38e97edda8ffa90f94528ff44" category="sidebar">Accédez au service sur BlueXP</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Connaissances et support</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
+  <block id="d83db14f4cdc7c07f256b9b25bf14272" category="paragraph">Si vous avez sélectionné l'option *recorrigez* dans le service de résilience opérationnelle de BlueXP, le service peut implémenter la correction pour vous.</block>
+  <block id="512d7187e11e6b2bd094632645a845b7" category="paragraph">Reportez-vous à la documentation BlueXP qui décrit<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>.</block>
+  <block id="f164503793033fa06dba0ecdec3a5be1" category="paragraph">Reportez-vous à la documentation BlueXP pour plus d'informations<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>.</block>
+  <block id="641d85e3392af705f9d34f2fa609a57b" category="paragraph">Faites référence à BlueXP<block ref="1295fbde6ecbfd0b1a74b2320f542e01" category="inline-link-rx"></block>.</block>
+  <block id="93dc9f8dd242c418b4365801f4f34021" category="list-text">Le service nécessite que tous les clusters soient surveillés par Digital Advisor (anciennement Active IQ Digital Advisor). Reportez-vous à la section<block ref="5d1aa2fae9958ef5ced45eec5d13d250" category="inline-link-rx"></block>.</block>
+  <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">Pour vous connecter à BlueXP, vous pouvez utiliser vos identifiants du site de support NetApp ou vous inscrire à une connexion au cloud NetApp à l'aide de votre e-mail et de votre mot de passe.<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>.</block>
+  <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
+  <block id="8bfe71eed258e3f01fe6e2704d8b996c" category="paragraph">Pour l'URL, dans un navigateur, entrez :<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block></block>
 </blocks>

@@ -12,7 +12,7 @@ summary: 'Si vous avez sélectionné l"option corriger, le service peut mettre e
 
 
 [role="lead"]
-Si vous avez sélectionné l'option *recorrigez*, le service peut mettre en œuvre la correction pour vous.
+Si vous avez sélectionné l'option *recorrigez* dans le service de résilience opérationnelle de BlueXP, le service peut implémenter la correction pour vous.
 
 .Étapes
 . Dans le menu de navigation de gauche de BlueXP, sélectionnez *Santé* > *résilience opérationnelle* > *correction des risques*.
@@ -25,11 +25,11 @@ Des instructions s'affichent, en fonction du problème. Certaines options de cet
 +
 ** Si un connecteur n'existe pas ou n'est pas encore activé, le service affiche la page Créer un connecteur, dans laquelle vous pouvez créer le connecteur. Si le connecteur existe, mais qu'il n'est pas actif, vous devez l'activer dans le service du fournisseur cloud.
 +
-Reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["comment créer un connecteur"].
+Reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["comment créer un connecteur"^].
 
 ** Si aucun cluster n'existe, le service affiche une page dans laquelle vous pouvez identifier le cluster.
 +
-Reportez-vous à la documentation BlueXP pour plus d'informations https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["identification du cluster"].
+Reportez-vous à la documentation BlueXP pour plus d'informations https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["identification du cluster"^].
 
 
 
