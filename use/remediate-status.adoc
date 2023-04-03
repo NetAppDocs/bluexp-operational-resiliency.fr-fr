@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-status.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 'Vous pouvez vérifier à tout moment le statut d"une correction. Vous pouvez voir si elle est en cours d"exécution, terminée ou en échec.' 
+---
+= Vérifiez l'état de la correction
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Vous pouvez vérifier à tout moment le statut d'une correction. Vous pouvez voir si elle est en cours d'exécution, terminée ou en échec.
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP, sélectionnez *Santé* > *résilience opérationnelle* > *État de correction*.
++
+La page État de la correction s'affiche.
+
+. Pour afficher les détails d'un problème, sélectionnez-le pour le développer.
+

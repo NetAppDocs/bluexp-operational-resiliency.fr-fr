@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/setup.html 
+keywords: bluexp, operational resiliency, risk remediate 
+summary: 'Vous n"avez plus besoin d"ajouter de la capacité ou de déplacer des données inactives. Vous pouvez désormais choisir aucune action requise et définir des rappels pour que vous puissiez vérifier à nouveau après 30, 60 ou 90 jours.' 
+---
+= Configurez le service de résilience opérationnelle
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Pour utiliser le service de résilience opérationnelle, la première étape consiste à rendre les données disponibles à partir des outils de surveillance de votre environnement.
+
+La configuration du service implique les étapes suivantes :
+
+* Révision link:../get-started/prerequisites.html["prérequis"] pour vous assurer que votre environnement est prêt
+* Si vous le souhaitez, créez un connecteur dans BlueXP
+* Si vous le souhaitez avant d'utiliser le service, découvrez le cluster dans BlueXP
+
+
+
+
+== Créez un connecteur dans BlueXP
+
+Un connecteur BlueXP inclut des informations d'identification pour les machines NetApp ONTAP. Le service de résilience opérationnelle peut ainsi fournir des conseils sur les risques de sécurité et appliquer des mesures correctives.
+
+Vous pouvez créer un connecteur directement dans BlueXP et l'utiliser dans le service de résilience opérationnelle. Vous pouvez également lancer le processus d'examen du cluster et, au cours de ce processus, déployer le connecteur.
+
+Pour créer un connecteur dans BlueXP avant d'utiliser le service, reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["comment créer un connecteur"^].
+
+
+
+== Découvrez le cluster dans BlueXP
+
+La configuration implique notamment l'identification du nom du cluster, de l'adresse IP, du nom d'utilisateur et du mot de passe dans BlueXP.
+
+Pour en savoir plus, reportez-vous à la documentation de BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["identification du cluster"^].

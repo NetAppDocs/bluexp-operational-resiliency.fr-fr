@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: operational resiliency faq, operational resiliency frequently asked questions, firmware risks 
+summary: Découvrez les nouveautés du service résilience opérationnelle. 
+---
+= Quoi de neuf
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Découvrez les nouveautés du service résilience opérationnelle.
+
+
+
+== 02 avril 2023
+
+Grâce au nouveau service de résilience opérationnelle et à ses suggestions automatisées de résolution des problèmes opérationnels IT, vous pouvez implémenter des solutions suggérées avant une panne ou une défaillance.
+
+La résilience opérationnelle est une catégorie de services qui vous aident à analyser les alertes et les événements afin de préserver l'intégrité, la disponibilité et les performances des services et des solutions.
+
+link:https://docs.netapp.com/us-en/bluexp-operational-resiliency/get-started/intro.html["En savoir plus sur ce nouveau service"].

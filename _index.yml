@@ -1,0 +1,41 @@
+---
+indexpage:
+  lead: La résilience opérationnelle est une catégorie de services qui vous aident
+    à analyser les alertes et les événements afin de préserver l'intégrité, la disponibilité
+    et les performances des services et des solutions. À l'aide du service de résolution
+    des problèmes de la résilience opérationnelle et de ses suggestions de mesures
+    correctives automatisées pour les opérations IT, vous pouvez implémenter des suggestions
+    de résolution avant qu'une panne ou une défaillance ne se produise.
+  tiles:
+  - title: Commencez
+    links:
+    - title: En savoir plus sur le service de résilience opérationnelle
+      url: "/get-started/intro.html"
+    - title: Quoi de neuf
+      url: "/release-notes/whats-new.html"
+    - title: Démarrage rapide
+      url: "/get-started/quick-start.html"
+    - title: Prérequis
+      url: "/get-started/prerequisites.html"
+    - title: Connectez-vous au service sur BlueXP
+      url: "/get-started/login.html"
+    - title: FAQ
+      url: "/get-started/faq.html"
+  - title: Utilisez le service résilience opérationnelle
+    links:
+    - title: Examinez et résolvez les problèmes de sécurité
+      url: "/use/remediate-overview.html"
+    - title: Corrigez automatiquement les problèmes
+      url: "/use/remediate-auto.html"
+    - title: Résolvez les problèmes à l'aide d'un PlayBook Ansible
+      url: "/use/remediate-ansible.html"
+    - title: Déterminez l'état de la résolution des problèmes
+      url: "/use/remediate-status.html"
+  - title: Blogs et communauté
+    links:
+    - title: Communauté NetApp
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Blog NetApp Cloud Tiering
+      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+    - title: Webinaires sur le cloud
+      url: https://bluexp.netapp.com/events

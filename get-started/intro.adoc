@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp operational resiliency works, what is operational resiliency, bluexp 
+summary: 'La résilience opérationnelle est une catégorie de services qui vous aident à analyser les alertes et les événements afin de préserver l"intégrité, la disponibilité et les performances des services et des solutions. À l"aide du service de résolution des problèmes de la résilience opérationnelle et de ses suggestions de mesures correctives automatisées pour les opérations IT, vous pouvez implémenter des suggestions de résolution avant qu"une panne ou une défaillance ne se produise.' 
+---
+= En savoir plus sur le service de résilience opérationnelle
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+La résilience opérationnelle est une catégorie de services qui vous aident à analyser les alertes et les événements afin de préserver l'intégrité, la disponibilité et les performances des services et des solutions. À l'aide du service de résolution des problèmes de la résilience opérationnelle et de ses suggestions de mesures correctives automatisées pour les opérations IT, vous pouvez implémenter des suggestions de résolution avant qu'une panne ou une défaillance ne se produise.
+
+La résolution des problèmes est un service conçu pour BlueXP qui implémente des mesures correctives pour les clusters NetApp ONTAP basées sur les conseils de NetApp Digital Advisor (anciennement Active IQ). Le service détecte les vulnérabilités de sécurité, telles que les problèmes de configuration du micrologiciel et du logiciel.
+
+
+
+== Avantages du service de résilience opérationnelle
+
+Le service de résilience opérationnelle offre les avantages suivants :
+
+* Procédures automatisées pour les corrections sur le cluster
+* Vue récapitulative du tableau de bord indiquant l'état de chaque correction de risque
+* Journal qui vous permet de suivre les différentes actions effectuées
+
+
+
+
+== Ce que vous pouvez faire avec le service de résilience opérationnelle
+
+Le service résilience opérationnelle vous permet d'atteindre les objectifs suivants :
+
+* Utilisez des workflows automatisés qui vous aident à détecter les risques qui affectent votre environnement de stockage et à prendre des mesures pour les limiter.
+* Examinez les recommandations opérationnelles et agissez en conséquence, telles que les problèmes liés aux failles de sécurité.
+
+
+
+
+== Le coût
+
+NetApp ne vous facture pas pour l'utilisation du service.
+
+
+
+== Environnements pris en charge
+
+Le service de résilience opérationnelle analyse les clusters NetApp ONTAP sur site.

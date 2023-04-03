@@ -1,0 +1,46 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-auto.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 'Si vous avez sélectionné l"option corriger, le service peut mettre en œuvre la correction pour vous.' 
+---
+= Corrigez le problème automatiquement
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Si vous avez sélectionné l'option *recorrigez*, le service peut mettre en œuvre la correction pour vous.
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP, sélectionnez *Santé* > *résilience opérationnelle* > *correction des risques*.
+. Dans la page correction des risques, triez par colonne niveau d'impact pour afficher les risques les plus élevés en premier.
+. Sélectionnez le risque et sélectionnez *remédier au risque*.
+. Pour chaque cluster, sélectionnez *remédier*.
++
+Des instructions s'affichent, en fonction du problème. Certaines options de cette page ne s'affichent pas si un connecteur BlueXP existe ou si un cluster est connu.
+
++
+** Si un connecteur n'existe pas ou n'est pas encore activé, le service affiche la page Créer un connecteur, dans laquelle vous pouvez créer le connecteur. Si le connecteur existe, mais qu'il n'est pas actif, vous devez l'activer dans le service du fournisseur cloud.
++
+Reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["comment créer un connecteur"].
+
+** Si aucun cluster n'existe, le service affiche une page dans laquelle vous pouvez identifier le cluster.
++
+Reportez-vous à la documentation BlueXP pour plus d'informations https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["identification du cluster"].
+
+
+
+. Une fois le connecteur déployé et le cluster découvert, examinez les mesures correctives.
++
+Si vous avez sélectionné l'option *corriger* pour que le service implémente la correction pour vous, la page vérifier et exécuter la réparation requise s'affiche.
+
+. Examinez le risque et d'autres informations.
+. Sélectionnez *Exécuter*.
++
+Cette action déploie le connecteur (si ce n'est pas déjà fait), découvre le cluster, télécharge le correctif et implémente automatiquement le correctif sur le cluster sélectionné.
+
+. Pour afficher l'état du correctif de correction, notez le nom du cluster sur la page État de correction.
+

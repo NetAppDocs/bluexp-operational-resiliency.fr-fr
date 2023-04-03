@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-ansible.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: Vous pouvez examiner les risques liés à la sécurité et télécharger un PlayBook Ansible que vous pouvez suivre pour corriger le problème. 
+---
+= Corrigez les problèmes à l'aide d'un PlayBook Ansible
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Vous pouvez examiner les risques liés à la sécurité et télécharger un PlayBook Ansible que vous pouvez suivre pour corriger le problème.
+
+Vous pouvez télécharger un PlayBook Ansible, un système de déploiement open source qui vous permet d'exécuter des tâches de configuration. Pour utiliser Ansible, il vous suffit d'exécuter le fichier PlayBook, qui utilise les fichiers d'inventaire et d'assistance stockés dans le même répertoire.
+
+.Ce dont vous avez besoin
+Le système doit pouvoir accéder à l'IP du cluster sur le réseau pour exécuter les playbooks Ansible.
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP, sélectionnez *Santé* > *résilience opérationnelle* > *correction des risques*.
+. Dans la liste des risques, triez par niveau d'impact pour voir d'abord les risques les plus élevés.
+. Sélectionnez le risque et sélectionnez *remédier au risque*.
+. Pour télécharger un PlayBook Ansible que vous utilisez pour résoudre le problème vous-même, sélectionnez *Download*.
++
+Le service installe le PlayBook Ansible sur vos machines locales, dans un emplacement de votre choix. Le PlayBook se télécharge sous forme de fichier zip, qui contient plusieurs fichiers YML.
+
+. Localisez le PlayBook Ansible dans le dossier de téléchargement.
+. Exécutez le PlayBook Ansible :
++
+[listing]
+----
+$ ansible-playbook <playbook.yml>
+----
++
+Pour obtenir des instructions sur l'utilisation d'un PlayBook Ansible, reportez-vous au https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html["Documentation Ansible"^].
+
+. Suivez les instructions du manuel de vente.
+

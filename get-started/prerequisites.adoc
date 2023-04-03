@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are bluexp operational resiliency requirements, economic efficiency prerequisites 
+summary: Commencez à utiliser la résilience opérationnelle de BlueXP en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web. 
+---
+= Conditions préalables à la résilience opérationnelle
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Commencez par vérifier que votre environnement opérationnel, votre connexion, votre accès au réseau et votre navigateur Web sont opérationnels.
+
+Pour utiliser le service de résilience opérationnelle, vous devez vous assurer que votre environnement répond à toutes les exigences.
+
+* Votre environnement doit respecter toutes les exigences de BlueXP, y compris une connexion et un accès au réseau à partir d'un navigateur Web.
++
+Faites référence à BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["Checklist de mise en route"].
+
+* Le service nécessite que tous les clusters soient surveillés par Digital Advisor (anciennement Active IQ Digital Advisor). Reportez-vous à la section https://docs.netapp.com/us-en/active-iq/index.html["Documentation de Digital Advisor"].
+* Vous devez disposer d'identifiants d'accès aux clusters.
+* Bien qu'il ne s'agisse pas d'une exigence, il est utile que le connecteur BlueXP soit en place et activé et que le système ONTAP soit détecté. Si ce n'est pas le cas, le service de résilience opérationnelle vous guide tout au long de ces processus.
+

@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-overview.html 
+keywords: operational resiliency, remediate, risk remediation, security risk 
+summary: 'Le service de résilience opérationnelle de NetApp BlueXP utilise l"IA pour déterminer les risques de sécurité.' 
+---
+= Examinez et résolvez les problèmes de risque de sécurité
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Le service de résilience opérationnelle vous permet d'examiner les risques de sécurité liés aux problèmes de micrologiciel et de mettre en œuvre des mesures correctives.
+
+Des recommandations sont fournies au niveau du système ou du nœud.
+
+Après avoir examiné les risques, vous pouvez remédier à ces risques de deux manières :
+
+* Demandez au service d'exécuter la correction, qui corrigera le problème pour vous.
+* Téléchargez un PlayBook Ansible, un système de déploiement open source qui vous permet d'exécuter les tâches de configuration et d'effectuer les actions suggérées dans le PlayBook.
+
+
+Le service résilience opérationnelle vous permet d'atteindre les objectifs suivants :
+
+* link:../use/remediate-review.html["Examinez les problèmes de risque de sécurité"]
+* link:../use/remediate-auto.html["Corrigez automatiquement"]
+* link:../use/remediate-ansible.html["Corrigez les problèmes à l'aide d'un PlayBook Ansible"]
+* link:../use/remediate-status.html["Déterminez l'état de la résolution des problèmes"]
+

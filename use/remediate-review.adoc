@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-review.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: Le service de résolution des problèmes identifie les risques de sécurité sur votre cluster ONTAP sur site. 
+---
+= Examinez les problèmes de risque de sécurité
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Le service de résolution des problèmes identifie les risques de sécurité sur votre cluster ONTAP sur site.
+
+L'examen des risques et l'exécution de la correction automatisée impliquent les processus suivants :
+
+* Créez un connecteur dans BlueXP (s'il n'en existe pas déjà pour le service de résolution des risques).
+* Identifiez le cluster (s'il n'en existe pas déjà un pour le service).
+* Exécutez la correction ou téléchargez un PlayBook Ansible.
+* Afficher l'état de la correction.
+
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP, sélectionnez *Santé* > *résilience opérationnelle* > *correction des risques*.
+. Dans la liste des risques, triez par niveau d'impact pour voir d'abord les risques les plus élevés.
+. Sélectionnez le risque et consultez des détails supplémentaires.
+. Sélectionnez *remédier au risque*.
+. Effectuez l'une des opérations suivantes :
++
+** Pour chaque cluster, sélectionnez *remédier*.
++
+Cette action entraîne la résolution automatique du problème (après avoir sélectionné *Execute* pour lancer la correction). Passez à link:../use/remediate-auto.html["Corrigez automatiquement les problèmes de risque"].
+
+** Pour résoudre le problème vous-même avec un PlayBook Ansible, sélectionnez *Download*. Passez à link:../use/remediate-ansible.html["Résolvez les problèmes de risque à l'aide d'un PlayBook Ansible"].
+
+
+
