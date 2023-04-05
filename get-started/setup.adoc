@@ -12,7 +12,7 @@ summary: 'Vous n"avez plus besoin d"ajouter de la capacité ou de déplacer des 
 
 
 [role="lead"]
-Pour utiliser le service de résilience opérationnelle, la première étape consiste à rendre les données disponibles à partir des outils de surveillance de votre environnement.
+Pour commencer à utiliser le service de résilience opérationnelle, les données sont disponibles à partir des outils de contrôle de votre environnement.
 
 La configuration du service implique les étapes suivantes :
 

@@ -1,11 +1,10 @@
 ---
 indexpage:
-  lead: La résilience opérationnelle est une catégorie de services qui vous aident
-    à analyser les alertes et les événements afin de préserver l'intégrité, la disponibilité
-    et les performances des services et des solutions. À l'aide du service de résolution
-    des problèmes de la résilience opérationnelle et de ses suggestions de mesures
-    correctives automatisées pour les opérations IT, vous pouvez implémenter des suggestions
-    de résolution avant qu'une panne ou une défaillance ne se produise.
+  lead: La résilience opérationnelle est un service qui vous aide à analyser les alertes
+    et les événements afin de préserver l'intégrité, la disponibilité et les performances
+    des services et des solutions. En utilisant le service de résilience opérationnelle
+    et ses suggestions automatisées de résolution des problèmes opérationnels IT,
+    vous pouvez implémenter les suggestions de résolution avant une panne ou une défaillance.
   tiles:
   - title: Commencez
     links:
@@ -21,7 +20,7 @@ indexpage:
       url: "/get-started/login.html"
     - title: FAQ
       url: "/get-started/faq.html"
-  - title: Utilisez le service résilience opérationnelle
+  - title: Utiliser le service de résilience opérationnelle
     links:
     - title: Examinez et résolvez les problèmes de sécurité
       url: "/use/remediate-overview.html"

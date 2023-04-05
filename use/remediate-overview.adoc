@@ -12,7 +12,7 @@ summary: 'Le service de résilience opérationnelle de NetApp BlueXP utilise l"I
 
 
 [role="lead"]
-Le service de résilience opérationnelle vous permet d'examiner les risques de sécurité liés aux problèmes de micrologiciel et de mettre en œuvre des mesures correctives.
+Le service de résilience opérationnelle vous permet d'examiner les risques de sécurité liés à des problèmes de firmware et de mettre en œuvre des mesures correctives.
 
 Des recommandations sont fournies au niveau du système ou du nœud.
 
@@ -22,7 +22,7 @@ Après avoir examiné les risques, vous pouvez remédier à ces risques de deux 
 * Téléchargez un PlayBook Ansible, un système de déploiement open source qui vous permet d'exécuter les tâches de configuration et d'effectuer les actions suggérées dans le PlayBook.
 
 
-Le service résilience opérationnelle vous permet d'atteindre les objectifs suivants :
+Le service de résilience opérationnelle vous permet d'atteindre ces objectifs :
 
 * link:../use/remediate-review.html["Examinez les problèmes de risque de sécurité"]
 * link:../use/remediate-auto.html["Corrigez automatiquement"]

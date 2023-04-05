@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/prerequisites.html 
 keywords: what are bluexp operational resiliency requirements, economic efficiency prerequisites 
-summary: Commencez à utiliser la résilience opérationnelle de BlueXP en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web. 
+summary: Commencez à utiliser le service de résilience opérationnelle de BlueXP en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web. 
 ---
 = Conditions préalables à la résilience opérationnelle
 :hardbreaks:
