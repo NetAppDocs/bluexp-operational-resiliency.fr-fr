@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/remediate-review.html 
 keywords: bluexp, operational resiliency, remediate, security risk remediation 
-summary: Le service de résolution des problèmes identifie les risques de sécurité sur votre cluster ONTAP sur site. 
+summary: La résilience opérationnelle BlueXP identifie les risques de sécurité sur votre cluster ONTAP sur site. 
 ---
 = Examinez les problèmes de risque de sécurité
 :hardbreaks:
@@ -12,11 +12,11 @@ summary: Le service de résolution des problèmes identifie les risques de sécu
 
 
 [role="lead"]
-Le service de résolution des problèmes identifie les risques de sécurité sur votre cluster ONTAP sur site.
+La résilience opérationnelle BlueXP identifie les risques de sécurité sur votre cluster ONTAP sur site.
 
 L'examen des risques et l'exécution de la correction automatisée impliquent les processus suivants :
 
-* Créez un connecteur dans BlueXP (s'il n'en existe pas déjà pour le service de résolution des risques).
+* Créez un connecteur dans BlueXP (s'il n'en existe pas déjà pour le service de résilience opérationnelle).
 * Identifiez le cluster (s'il n'en existe pas déjà un pour le service).
 * Exécutez la correction ou téléchargez un PlayBook Ansible.
 * Afficher l'état de la correction.

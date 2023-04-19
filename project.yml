@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Operational resiliency
+  name: BlueXP operational resiliency
   platform: cloud
   internal:
     pdf_enabled: true
@@ -10,7 +10,7 @@ settings:
   langs: fr-fr,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es
 sidebar:
   entries:
-  - title: Documents sur la résilience opérationnelle
+  - title: Documents sur la résilience opérationnelle de BlueXP
     url: "/index.html"
   - section: release-notes
   - section: get-started

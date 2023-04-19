@@ -12,7 +12,7 @@ summary: 'Le service de résilience opérationnelle de NetApp BlueXP utilise l"I
 
 
 [role="lead"]
-Le service de résilience opérationnelle vous permet d'examiner les risques de sécurité liés à des problèmes de firmware et de mettre en œuvre des mesures correctives.
+La résilience opérationnelle de BlueXP vous permet d'examiner les risques de sécurité liés aux problèmes de firmware et de mettre en œuvre des mesures correctives.
 
 Des recommandations sont fournies au niveau du système ou du nœud.
 

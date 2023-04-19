@@ -4,7 +4,7 @@ permalink: get-started/faq.html
 keywords: operational resiliency faq, risk remediation frequently asked questions 
 summary: Cette FAQ peut vous aider si vous cherchez juste une réponse rapide à une question. 
 ---
-= Forum aux questions sur le service de résilience opérationnelle
+= Forum aux questions sur la résilience opérationnelle de BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -16,7 +16,7 @@ Cette FAQ peut vous aider si vous cherchez juste une réponse rapide à une ques
 
 
 
-== Accès au service de résilience opérationnelle
+== Accès à la résilience opérationnelle de BlueXP
 
 *Quelle est l'URL de résilience opérationnelle de BlueXP ?*
 
@@ -26,6 +26,6 @@ Pour l'URL, dans un navigateur, entrez : https://console.bluexp.netapp.com/["htt
 
 == Licences
 
-*Avez-vous besoin d'une licence pour utiliser le service de résilience opérationnelle?*
+*Avez-vous besoin d'une licence pour utiliser la résilience opérationnelle de BlueXP ?*
 
 Aucun fichier de licence NetApp n'est requis.

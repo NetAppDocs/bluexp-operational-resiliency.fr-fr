@@ -1,14 +1,15 @@
 ---
 indexpage:
-  lead: La résilience opérationnelle est un service qui vous aide à analyser les alertes
-    et les événements afin de préserver l'intégrité, la disponibilité et les performances
-    des services et des solutions. En utilisant le service de résilience opérationnelle
-    et ses suggestions automatisées de résolution des problèmes opérationnels IT,
-    vous pouvez implémenter les suggestions de résolution avant une panne ou une défaillance.
+  lead: La résilience opérationnelle de BlueXP est un service qui vous aide à analyser
+    les alertes et les événements afin de préserver l'intégrité, la disponibilité
+    et les performances des services et des solutions. En utilisant le service de
+    résilience opérationnelle et ses suggestions automatisées de résolution des problèmes
+    opérationnels IT, vous pouvez implémenter les suggestions de résolution avant
+    une panne ou une défaillance.
   tiles:
   - title: Commencez
     links:
-    - title: En savoir plus sur le service de résilience opérationnelle
+    - title: Découvrez la résilience opérationnelle de BlueXP
       url: "/get-started/intro.html"
     - title: Quoi de neuf
       url: "/release-notes/whats-new.html"
@@ -20,7 +21,7 @@ indexpage:
       url: "/get-started/login.html"
     - title: FAQ
       url: "/get-started/faq.html"
-  - title: Utiliser le service de résilience opérationnelle
+  - title: Utilisez la résilience opérationnelle de BlueXP
     links:
     - title: Examinez et résolvez les problèmes de sécurité
       url: "/use/remediate-overview.html"

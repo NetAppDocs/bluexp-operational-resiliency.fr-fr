@@ -4,7 +4,7 @@ permalink: get-started/quick-start.html
 keywords: how to get started with bluexp operational resiliency, operational resiliency quick start, security risk remediation 
 summary: Commencez à utiliser le service de résilience opérationnelle de NetApp BlueXP en quelques étapes. 
 ---
-= Démarrage rapide du service de résilience opérationnelle
+= Démarrage rapide de la résilience opérationnelle de BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: Commencez à utiliser le service de résilience opérationnelle de NetA
 
 
 [role="lead"]
-Voici un aperçu des étapes à suivre pour démarrer avec le service de résilience opérationnelle NetApp BlueXP. Les liens de chaque étape vous mènent à une page qui fournit plus de détails.
+Voici un aperçu des étapes nécessaires pour démarrer avec la résilience opérationnelle BlueXP. Les liens de chaque étape vous mènent à une page qui fournit plus de détails.
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Une seule"] Passer en revue les prérequis
 [role="quick-margin-para"]
