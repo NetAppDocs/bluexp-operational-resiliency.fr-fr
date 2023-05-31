@@ -29,7 +29,7 @@ Un connecteur BlueXP inclut des informations d'identification pour les machines 
 
 Vous pouvez créer un connecteur directement dans BlueXP et l'utiliser dans le service de résilience opérationnelle. Vous pouvez également lancer le processus d'examen du cluster et, au cours de ce processus, déployer le connecteur.
 
-Pour créer un connecteur dans BlueXP avant d'utiliser le service, reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Comment créer un connecteur"^].
+Pour créer un connecteur dans BlueXP avant d'utiliser le service, reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Comment créer un connecteur"^].
 
 
 
@@ -37,4 +37,4 @@ Pour créer un connecteur dans BlueXP avant d'utiliser le service, reportez-vous
 
 La configuration implique notamment l'identification du nom du cluster, de l'adresse IP, du nom d'utilisateur et du mot de passe dans BlueXP.
 
-Pour en savoir plus, reportez-vous à la documentation de BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["identification du cluster"^].
+Pour en savoir plus, reportez-vous à la documentation de BlueXP https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["identification du cluster"^].

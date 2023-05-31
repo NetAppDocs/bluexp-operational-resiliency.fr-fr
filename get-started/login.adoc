@@ -14,7 +14,7 @@ summary: Commencez à utiliser le service de résilience opérationnelle en acc�
 [role="lead"]
 Vous pouvez utiliser la résilience opérationnelle de BlueXP en vous connectant à NetApp BlueXP.
 
-Pour vous connecter à BlueXP, vous pouvez utiliser vos identifiants du site de support NetApp ou vous inscrire à une connexion au cloud NetApp à l'aide de votre e-mail et de votre mot de passe. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["En savoir plus sur la connexion"^].
+Pour vous connecter à BlueXP, vous pouvez utiliser vos identifiants du site de support NetApp ou vous inscrire à une connexion au cloud NetApp à l'aide de votre e-mail et de votre mot de passe. https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["En savoir plus sur la connexion"^].
 
 .Étapes
 . Ouvrez un navigateur Web et accédez au https://console.bluexp.netapp.com/["Console BlueXP"].
