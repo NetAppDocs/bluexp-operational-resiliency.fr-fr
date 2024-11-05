@@ -1,22 +1,6 @@
----
-sidebar: sidebar 
-permalink: release-notes/whats-new.html 
-keywords: operational resiliency faq, operational resiliency frequently asked questions, firmware risks 
-summary: Découvrez les nouveautés de la résilience opérationnelle de BlueXP. 
----
-= Quoi de neuf
-:hardbreaks:
+= Service de résilience opérationnelle BlueXP 
 :allow-uri-read: 
-:icons: font
-:imagesdir: ../media/
 
-
-[role="lead"]
-Découvrez les nouveautés de la résilience opérationnelle de BlueXP.
-
-
-
-== 02 avril 2023
 
 
 
